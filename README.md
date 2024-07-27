@@ -8,7 +8,7 @@ This is because Melee and PM use different shield drop values / up tilt values, 
 
 This code utilizes the Nicohood Library.
 
-See tutorial at: https://docs.google.com/document/d/1ndV4E_w2ThAv9LpbjEzRDWwMj0uBWB9YqbvkHV35X5w/edit?usp=sharing
+See tutorial at: [https://docs.google.com/document/d/1ndV4E_w2ThAv9LpbjEzRDWwMj0uBWB9YqbvkHV35X5w/edit?usp=sharing](https://docs.google.com/document/d/1AB7Dsiy-vdmnvGYZcfUiqi4xVZJytR8C0HxpagVwp3w/edit?usp=sharing)
 
 Demo Video at: https://www.youtube.com/watch?v=5h7IPojhzTc
 
